@@ -1,0 +1,12 @@
+**/__pycache__
+.env
+.cometml-runs/
+data/stats/
+lightning_logs/
+
+filtered_merges.txt
+filtered_vocab.json
+merges.txt
+modified_merges.txt
+vocab.json
+filtered_vocab.json
