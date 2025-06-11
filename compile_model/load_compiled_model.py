@@ -3,7 +3,6 @@ from compile_model.tokenizer import Tokenizer
 from dotenv import load_dotenv
 import dill
 import os
-from utils import get_tokenizer
 from support_model.create_tokenizer_translator import create_translator
 
 
