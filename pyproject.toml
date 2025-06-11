@@ -44,6 +44,6 @@ build-backend = "hatchling.build"
 packages = ["utils"]
 
 [tool.uv]
-no-build-isolation-package = ["tracr"]
+no-build-isolation-package = []
 [tool.uv.sources]
 tracr = { git = "https://github.com/google-deepmind/tracr.git" }
