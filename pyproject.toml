@@ -26,13 +26,13 @@ dependencies = [
     "python-dotenv~=1.0.1",
     "peft~=0.14.0",
     "lightning~=2.4.0",
-    "comet-ml==3.35",
+    "comet-ml==3.47",
     "pynvml~=12.0.0",
     "pytest~=8.3.4",
     "pylint~=3.3.3",
     "flake8~=7.1.1",
-    "jax~=0.5",
-    "jaxlib~=0.5",
+    "jax==0.5",
+    "jaxlib==0.5",
     "tracr",
 ]
 
