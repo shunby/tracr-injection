@@ -1,5 +1,4 @@
 **/__pycache__
-.env
 .cometml-runs/
 data/stats/
 lightning_logs/
